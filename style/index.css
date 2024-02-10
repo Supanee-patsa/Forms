@@ -13,12 +13,6 @@
     text-align: center;
   }
   
-  
-  img {
-    width: 100px;
-  }
-  
-  
   .container {
     max-width: 600px;
     width: 100%;
@@ -92,3 +86,7 @@
   .section {
     display: inline-block;
 }
+
+img {
+    width: 100px;
+  }
