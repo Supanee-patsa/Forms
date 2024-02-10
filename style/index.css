@@ -12,6 +12,9 @@
     font-style: normal;
     text-align: center;
   }
+  h1 {
+    color: #ff6bbb;
+  }
   
   .container {
     max-width: 600px;
