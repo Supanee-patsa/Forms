@@ -83,3 +83,7 @@
     display: table;
     clear: both;
   }
+
+  section {
+    display: inline-block;
+}
